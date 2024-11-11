@@ -1,5 +1,3 @@
-<script>
-
 //MENSAJE GENERICO
 function mostrarAlerta(icono, titulo, texto, tiempo) {
   Swal.fire({
@@ -110,5 +108,3 @@ function msgDpiYaExiste(){
           title: 'UPSSS!',
           text: 'El DPI registrando ya existe!' });
 }
-
-</script>
