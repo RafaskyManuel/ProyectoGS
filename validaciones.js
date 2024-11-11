@@ -1,5 +1,4 @@
-<script>
-  /*VALIDACIONES GENERICAS*/
+/*VALIDACIONES GENERICAS*/
   //VALIDAR EL PRECIO QUE NO SUPERE UN LIMITE MAYOR A 5 DIGITOS
   function validarPrecio(input) {
   if (input.value.length > 5) {
@@ -74,5 +73,3 @@ function validarCorreoUsuario(input, error) {
     correoError.innerHTML ="Ingrese un correo electrónico válido";
   }
 }
-
-</script>
