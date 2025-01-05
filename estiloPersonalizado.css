@@ -105,3 +105,27 @@
   background-color: #198754;
   color: #ffffff;
 }
+
+/* Icono de imprimir (amarillo amarillo) */
+.print-icon {
+  color: #fedf00;
+  border-color: #fedf00;
+  margin-right: 3px; /* Espacio entre los iconos */
+}
+
+.print-icon:hover {
+  background-color: #fedf00;
+  color: #ffffff;
+}
+
+/* Icono de Enviar por correo (amarillo amarillo) */
+.send-icon {
+  color: #feb100;
+  border-color: #feb100;
+  margin-right: 3px; /* Espacio entre los iconos */
+}
+
+.send-icon:hover {
+  background-color: #feb100;
+  color: #ffffff;
+}
