@@ -129,3 +129,15 @@
   background-color: #feb100;
   color: #ffffff;
 }
+
+/*Imagenes tumbail*/
+.rounded{
+    height: 150px;
+    width: 150px;
+    classtrounded mx-auto d-block;
+  }
+
+  .imgThumbnail{
+    width: 60px;
+    height: 60px;
+  }
